@@ -1,2 +1,2 @@
 # TicTacToeLocalMP
-Actually this is not a repo, but some kind of cloud, cuz i want to open this project on other PC without loging in to any cloud service.
+Just spimple Tic Tac Toe game made in Visual Studio on Windows Forms
